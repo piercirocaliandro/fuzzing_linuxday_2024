@@ -1,8 +1,8 @@
 # Shoutout
-Thanks to [https://github.com/antonio-morales/Fuzzing101](Antonio Morales wonderful tutorial!)
+Thanks to [Antonio Morales wonderful tutorial!](https://github.com/antonio-morales/Fuzzing101)
 
 # Fuzzing examples 
-First, you need to [https://github.com/AFLplusplus/AFLplusplus/blob/stable/docs/INSTALL.md](install `AFLplusplus`)
+First, you need to [install `AFLplusplus`](https://github.com/AFLplusplus/AFLplusplus/blob/stable/docs/INSTALL.md)
 
 ```
 sudo apt-get update
